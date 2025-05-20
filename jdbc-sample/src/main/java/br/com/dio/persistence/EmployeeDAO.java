@@ -1,6 +1,6 @@
-package br.com.dio.persistence.entity;
+package br.com.dio.persistence;
 
-import br.com.dio.persistence.ConnectionUtil;
+import br.com.dio.persistence.entity.EmployeeEntity;
 
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
